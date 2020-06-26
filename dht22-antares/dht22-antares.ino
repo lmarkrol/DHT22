@@ -4,14 +4,14 @@
 #define DHTPIN 5
 #define DHTTYPE DHT22 
 
-#define ACCESSKEY "3387b7bf058c5ce7:366ef7bc4753eb81" 
-#define projectName "humidity-temperature"
-#define deviceName "values" 
+#define ACCESSKEY "" 
+#define projectName ""
+#define deviceName "" 
 
 AntaresESP8266MQTT antares(ACCESSKEY);
 
-const char* ssid = "Tribe IoT";
-const char* password = "telkom2020"; 
+const char* ssid = "";
+const char* password = ""; 
 
 
 float h;
