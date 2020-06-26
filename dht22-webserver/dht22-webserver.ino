@@ -7,11 +7,11 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-//const char* ssid = "Tribe IoT";
-//const char* password = "telkom2020";
+//const char* ssid = "";
+//const char* password = "";
 
-const char* ssid = "FiRaDay";
-const char* password = "frianto12610";
+const char* ssid = "";
+const char* password = "";
 
 
 float h;
